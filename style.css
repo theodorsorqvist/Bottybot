@@ -8,10 +8,6 @@ body {
   display: none !important;
 }
 
-.vfrc-header--button {
-  color: #ffffff !important;
-}
-
 .vfrc-header--title,
 .vfrc-chat--session-time,
 .vfrc-assistant-info--title,
