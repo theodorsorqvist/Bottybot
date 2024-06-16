@@ -1,4 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@100..700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@100;200;300;400;500;600;700&display=swap');
+
+body {
+  font-family: 'Space Grotesk', sans-serif;
 }
 
 .vfrc-chat--spacer {
@@ -6,7 +9,7 @@
 }
 
 .vfrc-header--button {
-  border: 1px solid #ffffff;
+  border: 0px solid #ffffff;
   color: #ffffff !important;
 }
 
